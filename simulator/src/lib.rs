@@ -86,7 +86,6 @@ mod display;
 mod framebuffer;
 mod output_settings;
 mod theme;
-pub mod thick_c;
 mod window;
 
 pub use crate::{
